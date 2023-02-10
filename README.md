@@ -6,4 +6,4 @@ This analyzation was done to determine if there is any bias towards favorable re
 
 ## Results
 The following image shows the results of Vine reviews
-![Results of Vine reviews]()
+![Results of Vine reviews](https://github.com/Kanackle/Amazon_Vine_Analysis/blob/main/Starter_Code%20(6)/Images/Vine_results.PNG)
